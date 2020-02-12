@@ -1,0 +1,51 @@
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\bin\Debug\SADEF.exe.config
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.csprojResolveAssemblyReference.cache
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.KGirisForm.resources
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.Properties.Resources.resources
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.csproj.GenerateResource.Cache
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\bin\Debug\SADEF.exe
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\bin\Debug\SADEF.pdb
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.exe
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.pdb
+C:\Users\musta\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.SifreUnuttumForm.resources
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\bin\Debug\SADEF.exe.config
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.exe
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.pdb
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\bin\Debug\SADEF.exe
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\bin\Debug\SADEF.pdb
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.KGirisForm.resources
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.Properties.Resources.resources
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.SifreUnuttumForm.resources
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.csproj.GenerateResource.Cache
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.SADEF.resources
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.Kayit.resources
+C:\Users\ACAR\Desktop\Berkin\SADEF\SADEF\obj\Debug\SADEF.Ayarlar.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\bin\Debug\SADEF.exe.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\bin\Debug\SADEF.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\bin\Debug\SADEF.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.Ayarlar.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.Kayit.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.KGirisForm.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.Properties.Resources.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.SADEF.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.SifreUnuttumForm.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.csproj.GenerateResource.Cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\SADEF\SADEF\SADEF\obj\Debug\SADEF.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\bin\Debug\SADEF.exe.config
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\bin\Debug\SADEF.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\bin\Debug\SADEF.pdb
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.csprojResolveAssemblyReference.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.Ayarlar.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.Kayit.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.KGirisForm.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.Properties.Resources.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.SADEF.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.SifreUnuttumForm.resources
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.csproj.GenerateResource.Cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.csproj.CoreCompileInputs.cache
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.exe
+C:\Users\ACAR\Desktop\Mustafa\Okul Dosyaları\Kullar MYO\2.SINIF\SADEF\SADEF\SADEF\SADEF\obj\Debug\SADEF.pdb
